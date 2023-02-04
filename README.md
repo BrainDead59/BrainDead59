@@ -1,3 +1,3 @@
 ### Hi there 👋
-![](image.jpg)
+![](imagenes/skeleton)
 
