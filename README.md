@@ -8,5 +8,3 @@
   <p><li>En este perfil podrás encontrar mis proyectos personales y escolares, de programación.</li></p>
   <p><li>Me gusta mucho la programación algorítmica y la ciberserguridad.</li></p>
 </ul> 
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryand%C3%ADaz/)
