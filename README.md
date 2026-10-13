@@ -4,7 +4,7 @@
 </div>
 
 <ul>
-  <p><li>Soy estudiante de Ing. en Computación en la FI - UNAM.</li></p>
-  <p><li>En este perfil podrás encontrar mis proyectos personales y escolares, de programación.</li></p>
-  <p><li>Me gusta mucho la programación algorítmica y la ciberserguridad.</li></p>
+  <p>My profession is Software Engineering, previously I worked at Oracle and Ford. I have interest in optimizations and internals of systems, I really like to use AI to learn and satisfy my curiosity, currently working on personal projects and design knowledge.</p>
+
+  <p>I really love dia de muertos and skeletons</p>
 </ul> 
